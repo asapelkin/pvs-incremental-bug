@@ -12,7 +12,7 @@ Output:
 Total messages: 1
 Filtered messages: 0
 ```
-Error code of plog-converter: 0
+Return code of plog-converter: 0
 
 #### incremental
 ```
@@ -25,6 +25,6 @@ Output:
 Total messages: 2
 Filtered messages: 1
 ```
-Error code of plog-converter: 2
+Return code of plog-converter: 2
 
 Full steps in plain.sh and incremental.sh 
